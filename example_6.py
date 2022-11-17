@@ -8,3 +8,4 @@ if day > 1:
     print(f"the athlete will reach the desired distance in {day} days")
 else:
     print("the athlete has achieved the desired result")
+#1
